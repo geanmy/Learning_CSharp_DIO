@@ -1,0 +1,15 @@
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\obj\Debug\net6.0\ArrayClassExample.csproj.AssemblyReference.cache
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\obj\Debug\net6.0\ArrayClassExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\obj\Debug\net6.0\ArrayClassExample.AssemblyInfoInputs.cache
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\obj\Debug\net6.0\ArrayClassExample.AssemblyInfo.cs
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\obj\Debug\net6.0\ArrayClassExample.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\bin\Debug\net6.0\ArrayClassExample.exe
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\bin\Debug\net6.0\ArrayClassExample.deps.json
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\bin\Debug\net6.0\ArrayClassExample.runtimeconfig.json
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\bin\Debug\net6.0\ArrayClassExample.dll
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\bin\Debug\net6.0\ref\ArrayClassExample.dll
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\bin\Debug\net6.0\ArrayClassExample.pdb
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\obj\Debug\net6.0\ArrayClassExample.dll
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\obj\Debug\net6.0\ref\ArrayClassExample.dll
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\obj\Debug\net6.0\ArrayClassExample.pdb
+D:\Gean\Projetos\OOPExamples\ArrayClassExample\obj\Debug\net6.0\ArrayClassExample.genruntimeconfig.cache

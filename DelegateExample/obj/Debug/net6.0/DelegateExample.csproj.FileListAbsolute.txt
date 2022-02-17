@@ -1,0 +1,15 @@
+D:\Gean\Projetos\OOPExamples\DelegateExample\obj\Debug\net6.0\DelegateExample.csproj.AssemblyReference.cache
+D:\Gean\Projetos\OOPExamples\DelegateExample\obj\Debug\net6.0\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\OOPExamples\DelegateExample\obj\Debug\net6.0\DelegateExample.AssemblyInfoInputs.cache
+D:\Gean\Projetos\OOPExamples\DelegateExample\obj\Debug\net6.0\DelegateExample.AssemblyInfo.cs
+D:\Gean\Projetos\OOPExamples\DelegateExample\obj\Debug\net6.0\DelegateExample.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\OOPExamples\DelegateExample\bin\Debug\net6.0\DelegateExample.exe
+D:\Gean\Projetos\OOPExamples\DelegateExample\bin\Debug\net6.0\DelegateExample.deps.json
+D:\Gean\Projetos\OOPExamples\DelegateExample\bin\Debug\net6.0\DelegateExample.runtimeconfig.json
+D:\Gean\Projetos\OOPExamples\DelegateExample\bin\Debug\net6.0\DelegateExample.dll
+D:\Gean\Projetos\OOPExamples\DelegateExample\bin\Debug\net6.0\ref\DelegateExample.dll
+D:\Gean\Projetos\OOPExamples\DelegateExample\bin\Debug\net6.0\DelegateExample.pdb
+D:\Gean\Projetos\OOPExamples\DelegateExample\obj\Debug\net6.0\DelegateExample.dll
+D:\Gean\Projetos\OOPExamples\DelegateExample\obj\Debug\net6.0\ref\DelegateExample.dll
+D:\Gean\Projetos\OOPExamples\DelegateExample\obj\Debug\net6.0\DelegateExample.pdb
+D:\Gean\Projetos\OOPExamples\DelegateExample\obj\Debug\net6.0\DelegateExample.genruntimeconfig.cache

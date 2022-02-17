@@ -1,0 +1,15 @@
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\obj\Debug\net6.0\ConstructorsExample.csproj.AssemblyReference.cache
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\obj\Debug\net6.0\ConstructorsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\obj\Debug\net6.0\ConstructorsExample.AssemblyInfoInputs.cache
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\obj\Debug\net6.0\ConstructorsExample.AssemblyInfo.cs
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\obj\Debug\net6.0\ConstructorsExample.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\bin\Debug\net6.0\ConstructorsExample.exe
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\bin\Debug\net6.0\ConstructorsExample.deps.json
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\bin\Debug\net6.0\ConstructorsExample.runtimeconfig.json
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\bin\Debug\net6.0\ConstructorsExample.dll
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\bin\Debug\net6.0\ref\ConstructorsExample.dll
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\bin\Debug\net6.0\ConstructorsExample.pdb
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\obj\Debug\net6.0\ConstructorsExample.dll
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\obj\Debug\net6.0\ref\ConstructorsExample.dll
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\obj\Debug\net6.0\ConstructorsExample.pdb
+D:\Gean\Projetos\OOPExamples\ConstructorsExample\obj\Debug\net6.0\ConstructorsExample.genruntimeconfig.cache
