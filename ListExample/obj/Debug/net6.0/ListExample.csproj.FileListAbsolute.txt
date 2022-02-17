@@ -1,0 +1,15 @@
+D:\Gean\Projetos\OOPExamples\ListExample\obj\Debug\net6.0\ListExample.csproj.AssemblyReference.cache
+D:\Gean\Projetos\OOPExamples\ListExample\obj\Debug\net6.0\ListExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\OOPExamples\ListExample\obj\Debug\net6.0\ListExample.AssemblyInfoInputs.cache
+D:\Gean\Projetos\OOPExamples\ListExample\obj\Debug\net6.0\ListExample.AssemblyInfo.cs
+D:\Gean\Projetos\OOPExamples\ListExample\obj\Debug\net6.0\ListExample.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\OOPExamples\ListExample\bin\Debug\net6.0\ListExample.exe
+D:\Gean\Projetos\OOPExamples\ListExample\bin\Debug\net6.0\ListExample.deps.json
+D:\Gean\Projetos\OOPExamples\ListExample\bin\Debug\net6.0\ListExample.runtimeconfig.json
+D:\Gean\Projetos\OOPExamples\ListExample\bin\Debug\net6.0\ListExample.dll
+D:\Gean\Projetos\OOPExamples\ListExample\bin\Debug\net6.0\ref\ListExample.dll
+D:\Gean\Projetos\OOPExamples\ListExample\bin\Debug\net6.0\ListExample.pdb
+D:\Gean\Projetos\OOPExamples\ListExample\obj\Debug\net6.0\ListExample.dll
+D:\Gean\Projetos\OOPExamples\ListExample\obj\Debug\net6.0\ref\ListExample.dll
+D:\Gean\Projetos\OOPExamples\ListExample\obj\Debug\net6.0\ListExample.pdb
+D:\Gean\Projetos\OOPExamples\ListExample\obj\Debug\net6.0\ListExample.genruntimeconfig.cache

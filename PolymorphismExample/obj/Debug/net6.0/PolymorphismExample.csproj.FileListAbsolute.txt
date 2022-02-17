@@ -1,0 +1,15 @@
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.csproj.AssemblyReference.cache
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.AssemblyInfoInputs.cache
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.AssemblyInfo.cs
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.exe
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.deps.json
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.runtimeconfig.json
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.dll
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\bin\Debug\net6.0\ref\PolymorphismExample.dll
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\bin\Debug\net6.0\PolymorphismExample.pdb
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.dll
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\obj\Debug\net6.0\ref\PolymorphismExample.dll
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.pdb
+D:\Gean\Projetos\OOPExamples\PolymorphismExample\obj\Debug\net6.0\PolymorphismExample.genruntimeconfig.cache
