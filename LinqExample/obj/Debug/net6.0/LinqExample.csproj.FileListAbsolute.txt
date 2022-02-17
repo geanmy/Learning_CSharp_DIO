@@ -1,0 +1,15 @@
+D:\Gean\Projetos\OOPExamples\LinqExample\obj\Debug\net6.0\LinqExample.csproj.AssemblyReference.cache
+D:\Gean\Projetos\OOPExamples\LinqExample\obj\Debug\net6.0\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\OOPExamples\LinqExample\obj\Debug\net6.0\LinqExample.AssemblyInfoInputs.cache
+D:\Gean\Projetos\OOPExamples\LinqExample\obj\Debug\net6.0\LinqExample.AssemblyInfo.cs
+D:\Gean\Projetos\OOPExamples\LinqExample\obj\Debug\net6.0\LinqExample.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\OOPExamples\LinqExample\bin\Debug\net6.0\LinqExample.exe
+D:\Gean\Projetos\OOPExamples\LinqExample\bin\Debug\net6.0\LinqExample.deps.json
+D:\Gean\Projetos\OOPExamples\LinqExample\bin\Debug\net6.0\LinqExample.runtimeconfig.json
+D:\Gean\Projetos\OOPExamples\LinqExample\bin\Debug\net6.0\LinqExample.dll
+D:\Gean\Projetos\OOPExamples\LinqExample\bin\Debug\net6.0\ref\LinqExample.dll
+D:\Gean\Projetos\OOPExamples\LinqExample\bin\Debug\net6.0\LinqExample.pdb
+D:\Gean\Projetos\OOPExamples\LinqExample\obj\Debug\net6.0\LinqExample.dll
+D:\Gean\Projetos\OOPExamples\LinqExample\obj\Debug\net6.0\ref\LinqExample.dll
+D:\Gean\Projetos\OOPExamples\LinqExample\obj\Debug\net6.0\LinqExample.pdb
+D:\Gean\Projetos\OOPExamples\LinqExample\obj\Debug\net6.0\LinqExample.genruntimeconfig.cache

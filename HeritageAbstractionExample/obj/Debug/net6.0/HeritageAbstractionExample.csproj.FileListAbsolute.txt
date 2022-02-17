@@ -1,0 +1,15 @@
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\obj\Debug\net6.0\HeritageAbstractionExample.csproj.AssemblyReference.cache
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\obj\Debug\net6.0\HeritageAbstractionExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\obj\Debug\net6.0\HeritageAbstractionExample.AssemblyInfoInputs.cache
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\obj\Debug\net6.0\HeritageAbstractionExample.AssemblyInfo.cs
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\obj\Debug\net6.0\HeritageAbstractionExample.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\bin\Debug\net6.0\HeritageAbstractionExample.exe
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\bin\Debug\net6.0\HeritageAbstractionExample.deps.json
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\bin\Debug\net6.0\HeritageAbstractionExample.runtimeconfig.json
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\bin\Debug\net6.0\HeritageAbstractionExample.dll
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\bin\Debug\net6.0\ref\HeritageAbstractionExample.dll
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\bin\Debug\net6.0\HeritageAbstractionExample.pdb
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\obj\Debug\net6.0\HeritageAbstractionExample.dll
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\obj\Debug\net6.0\ref\HeritageAbstractionExample.dll
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\obj\Debug\net6.0\HeritageAbstractionExample.pdb
+D:\Gean\Projetos\OOPExamples\HeritageAbstractionExample\obj\Debug\net6.0\HeritageAbstractionExample.genruntimeconfig.cache

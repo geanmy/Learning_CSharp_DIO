@@ -1,0 +1,15 @@
+D:\Gean\Projetos\OOPExamples\HeritageExample\obj\Debug\net6.0\HeritageExample.csproj.AssemblyReference.cache
+D:\Gean\Projetos\OOPExamples\HeritageExample\obj\Debug\net6.0\HeritageExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\OOPExamples\HeritageExample\obj\Debug\net6.0\HeritageExample.AssemblyInfoInputs.cache
+D:\Gean\Projetos\OOPExamples\HeritageExample\obj\Debug\net6.0\HeritageExample.AssemblyInfo.cs
+D:\Gean\Projetos\OOPExamples\HeritageExample\obj\Debug\net6.0\HeritageExample.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\OOPExamples\HeritageExample\bin\Debug\net6.0\HeritageExample.exe
+D:\Gean\Projetos\OOPExamples\HeritageExample\bin\Debug\net6.0\HeritageExample.deps.json
+D:\Gean\Projetos\OOPExamples\HeritageExample\bin\Debug\net6.0\HeritageExample.runtimeconfig.json
+D:\Gean\Projetos\OOPExamples\HeritageExample\bin\Debug\net6.0\HeritageExample.dll
+D:\Gean\Projetos\OOPExamples\HeritageExample\bin\Debug\net6.0\ref\HeritageExample.dll
+D:\Gean\Projetos\OOPExamples\HeritageExample\bin\Debug\net6.0\HeritageExample.pdb
+D:\Gean\Projetos\OOPExamples\HeritageExample\obj\Debug\net6.0\HeritageExample.dll
+D:\Gean\Projetos\OOPExamples\HeritageExample\obj\Debug\net6.0\ref\HeritageExample.dll
+D:\Gean\Projetos\OOPExamples\HeritageExample\obj\Debug\net6.0\HeritageExample.pdb
+D:\Gean\Projetos\OOPExamples\HeritageExample\obj\Debug\net6.0\HeritageExample.genruntimeconfig.cache
