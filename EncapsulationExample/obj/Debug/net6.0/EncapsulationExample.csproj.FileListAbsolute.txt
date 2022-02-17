@@ -1,0 +1,15 @@
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.csproj.AssemblyReference.cache
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.AssemblyInfoInputs.cache
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.AssemblyInfo.cs
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\bin\Debug\net6.0\EncapsulationExample.exe
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\bin\Debug\net6.0\EncapsulationExample.deps.json
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\bin\Debug\net6.0\EncapsulationExample.runtimeconfig.json
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\bin\Debug\net6.0\EncapsulationExample.dll
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\bin\Debug\net6.0\ref\EncapsulationExample.dll
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\bin\Debug\net6.0\EncapsulationExample.pdb
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.dll
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\obj\Debug\net6.0\ref\EncapsulationExample.dll
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.pdb
+D:\Gean\Projetos\OOPExamples\EncapsulationExample\obj\Debug\net6.0\EncapsulationExample.genruntimeconfig.cache

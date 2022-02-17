@@ -1,0 +1,15 @@
+D:\Gean\Projetos\OOPExamples\DictionaryExample\obj\Debug\net6.0\DictionaryExample.csproj.AssemblyReference.cache
+D:\Gean\Projetos\OOPExamples\DictionaryExample\obj\Debug\net6.0\DictionaryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\OOPExamples\DictionaryExample\obj\Debug\net6.0\DictionaryExample.AssemblyInfoInputs.cache
+D:\Gean\Projetos\OOPExamples\DictionaryExample\obj\Debug\net6.0\DictionaryExample.AssemblyInfo.cs
+D:\Gean\Projetos\OOPExamples\DictionaryExample\obj\Debug\net6.0\DictionaryExample.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\OOPExamples\DictionaryExample\bin\Debug\net6.0\DictionaryExample.exe
+D:\Gean\Projetos\OOPExamples\DictionaryExample\bin\Debug\net6.0\DictionaryExample.deps.json
+D:\Gean\Projetos\OOPExamples\DictionaryExample\bin\Debug\net6.0\DictionaryExample.runtimeconfig.json
+D:\Gean\Projetos\OOPExamples\DictionaryExample\bin\Debug\net6.0\DictionaryExample.dll
+D:\Gean\Projetos\OOPExamples\DictionaryExample\bin\Debug\net6.0\ref\DictionaryExample.dll
+D:\Gean\Projetos\OOPExamples\DictionaryExample\bin\Debug\net6.0\DictionaryExample.pdb
+D:\Gean\Projetos\OOPExamples\DictionaryExample\obj\Debug\net6.0\DictionaryExample.dll
+D:\Gean\Projetos\OOPExamples\DictionaryExample\obj\Debug\net6.0\ref\DictionaryExample.dll
+D:\Gean\Projetos\OOPExamples\DictionaryExample\obj\Debug\net6.0\DictionaryExample.pdb
+D:\Gean\Projetos\OOPExamples\DictionaryExample\obj\Debug\net6.0\DictionaryExample.genruntimeconfig.cache

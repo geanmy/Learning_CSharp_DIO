@@ -1,0 +1,15 @@
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\obj\Debug\net6.0\FileManagmentExample.csproj.AssemblyReference.cache
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\obj\Debug\net6.0\FileManagmentExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\obj\Debug\net6.0\FileManagmentExample.AssemblyInfoInputs.cache
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\obj\Debug\net6.0\FileManagmentExample.AssemblyInfo.cs
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\obj\Debug\net6.0\FileManagmentExample.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\bin\Debug\net6.0\FileManagmentExample.exe
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\bin\Debug\net6.0\FileManagmentExample.deps.json
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\bin\Debug\net6.0\FileManagmentExample.runtimeconfig.json
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\bin\Debug\net6.0\FileManagmentExample.dll
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\bin\Debug\net6.0\ref\FileManagmentExample.dll
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\bin\Debug\net6.0\FileManagmentExample.pdb
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\obj\Debug\net6.0\FileManagmentExample.dll
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\obj\Debug\net6.0\ref\FileManagmentExample.dll
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\obj\Debug\net6.0\FileManagmentExample.pdb
+D:\Gean\Projetos\OOPExamples\FileManagmentExample\obj\Debug\net6.0\FileManagmentExample.genruntimeconfig.cache
